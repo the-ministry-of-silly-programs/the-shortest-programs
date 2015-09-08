@@ -6,5 +6,5 @@ a repo containing the shortest programs for every programming language ever inve
 ### Programming Languages Currently Represented
 2
 
-[c](https://github.com/the-ministry-of-silly-programs/the-shortest-programs/blob/master/c/short.c): 21 chars  
+[C](https://github.com/the-ministry-of-silly-programs/the-shortest-programs/blob/master/c/short.c): 21 chars  
 [Java](https://github.com/the-ministry-of-silly-programs/the-shortest-programs/blob/master/java/S.java): 45 chars
